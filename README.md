@@ -1,2 +1,2 @@
 # gzzen.github.io
-Website for experience and project stuff.
+Website to host my experience and project stuff.
